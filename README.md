@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Hash Table
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
