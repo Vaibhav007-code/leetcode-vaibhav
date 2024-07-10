@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0136-single-number) |
 ## String
 |  |
 | ------- |
@@ -35,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0567-permutation-in-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
