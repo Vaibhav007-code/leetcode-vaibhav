@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0069-sqrtx) |
 | [1642-water-bottles](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
@@ -41,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
