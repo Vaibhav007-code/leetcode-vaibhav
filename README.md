@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0136-single-number) |
 ## String
 |  |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -64,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
