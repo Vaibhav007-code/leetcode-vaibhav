@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0058-length-of-last-word) |
 | [0443-string-compression](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0567-permutation-in-string) |
@@ -59,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0342-power-of-four) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
