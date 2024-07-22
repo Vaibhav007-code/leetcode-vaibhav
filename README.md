@@ -106,4 +106,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0020-valid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0210-course-schedule-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0210-course-schedule-ii) |
+## Graph
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
