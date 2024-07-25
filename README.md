@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0169-majority-element) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0079-word-search) |
 | [0443-string-compression](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -124,4 +126,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0210-course-schedule-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
