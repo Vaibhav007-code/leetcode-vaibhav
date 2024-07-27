@@ -1,15 +1,21 @@
 class Solution {
 public:
-    int getCommon(vector<int>& nums1, vector<int>& nums2) 
-    {
-        map < int , int > mp ;
-        for ( int i = 0 ; i < nums1.size() ; i++ )
-            mp [ nums1[i] ]++ ;
-        for ( int i = 0 ; i < nums2.size() ; i++ )
-        {
-            if ( mp [ nums2[i] ] )
-                return nums2[i] ;
+    int getCommon(vector<int>& arr1, vector<int>& arr2) {
+         int i = 0;
+    int j = 0;
+    
+    // Traverse both arrays
+    while (i < arr1.size() && j < arr2.size()) {
+        if (arr1[i] == arr2[j]) {
+            return arr1[i];
+        } else if (arr1[i] < arr2[j]) {
+            i++;
+        } else {
+            j++;
         }
-        return -1 ;
+    }
+    
+    // No common value found
+    return -1;
     }
 };
