@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0283-move-zeroes) |
+| [0792-binary-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1019-squares-of-a-sorted-array) |
 | [2634-minimum-common-value](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2634-minimum-common-value) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0069-sqrtx) |
+| [0792-binary-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2634-minimum-common-value](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2634-minimum-common-value) |
 ## Recursion
