@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1019-squares-of-a-sorted-array) |
+| [1196-filling-bookcase-shelves](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1196-filling-bookcase-shelves) |
 | [2634-minimum-common-value](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2634-minimum-common-value) |
 ## String
 |  |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0072-edit-distance) |
+| [1196-filling-bookcase-shelves](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1196-filling-bookcase-shelves) |
 ## Stack
 |  |
 | ------- |
