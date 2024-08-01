@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1019-squares-of-a-sorted-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1196-filling-bookcase-shelves) |
 | [2634-minimum-common-value](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2634-minimum-common-value) |
+| [2727-number-of-senior-citizens](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2727-number-of-senior-citizens) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2727-number-of-senior-citizens](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
