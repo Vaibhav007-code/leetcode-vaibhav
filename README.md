@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1019-squares-of-a-sorted-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1196-filling-bookcase-shelves) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2634-minimum-common-value](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2727-number-of-senior-citizens) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0567-permutation-in-string) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2634-minimum-common-value](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1019-squares-of-a-sorted-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
