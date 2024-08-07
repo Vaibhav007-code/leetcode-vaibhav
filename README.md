@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0342-power-of-four) |
 | [1642-water-bottles](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1642-water-bottles) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0079-word-search) |
+| [0273-integer-to-english-words](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0273-integer-to-english-words) |
 | [0443-string-compression](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0342-power-of-four) |
 ## Trie
