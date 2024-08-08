@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1642-water-bottles) |
 ## Array
 |  |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0921-spiral-matrix-iii](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0921-spiral-matrix-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1019-squares-of-a-sorted-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1196-filling-bookcase-shelves) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0079-word-search) |
+| [0921-spiral-matrix-iii](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0921-spiral-matrix-iii) |
 ## Greedy
 |  |
 | ------- |
