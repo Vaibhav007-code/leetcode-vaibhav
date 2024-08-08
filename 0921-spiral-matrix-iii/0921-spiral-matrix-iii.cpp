@@ -1,30 +1,35 @@
 class Solution {
 public:
     vector<vector<int>> spiralMatrixIII(int rows, int cols, int rStart, int cStart) {
-        vector<vector<int>> result;
-        result.push_back({rStart, cStart}); // Start at the given point
+        int i = rStart, j = cStart;
+        int diri = 0, dirj = 1; // directions to move
+        int twice = 2;
+        vector<vector<int>> res;
+        int moves = 1;
+        int next_moves = 2;
 
-        int steps = 1; // Start by taking 1 step
-        int totalCells = rows * cols; // Total squares to visit
-        int directions[4][2] = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}}; // The 4 directions: right, down, left, up
-        int dirIdx = 0; // Start by moving right
-
-        while (result.size() < totalCells) {
-            for (int i = 0; i < 2; i++) { // For every two directions (right, down or left, up)
-                for (int j = 0; j < steps; j++) {
-                    rStart += directions[dirIdx][0]; // Move in the current direction
-                    cStart += directions[dirIdx][1];
-
-                    // If the new position is within the grid boundaries, record it
-                    if (rStart >= 0 && rStart < rows && cStart >= 0 && cStart < cols) {
-                        result.push_back({rStart, cStart});
-                    }
-                }
-                dirIdx = (dirIdx + 1) % 4; // Move to the next direction
+        while (res.size() < rows * cols) {
+            if (i >= 0 && i < rows && j >= 0 && j < cols) {
+                res.push_back({i, j});
             }
-            steps++; // Increase step size after every two directions
-        }
 
-        return result; // Return the list of positions in spiral order
+            i += diri;
+            j += dirj;
+            moves -= 1;
+            if (moves == 0) {
+                int temp = diri;
+                diri = dirj;
+                dirj = -temp; // right direction
+                twice -= 1;
+                if (twice == 0) {
+                    twice = 2;
+                    moves = next_moves;
+                    next_moves += 1;
+                } else {
+                    moves = next_moves - 1;
+                }
+            }
+        }
+        return res;
     }
 };
