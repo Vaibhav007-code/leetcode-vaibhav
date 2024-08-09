@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0342-power-of-four) |
+| [0870-magic-squares-in-grid](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0792-binary-search) |
+| [0870-magic-squares-in-grid](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0921-spiral-matrix-iii](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0921-spiral-matrix-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1019-squares-of-a-sorted-array) |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0567-permutation-in-string) |
+| [0870-magic-squares-in-grid](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2634-minimum-common-value](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2634-minimum-common-value) |
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0079-word-search) |
+| [0870-magic-squares-in-grid](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0921-spiral-matrix-iii) |
 ## Greedy
 |  |
