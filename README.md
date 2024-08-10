@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0066-plus-one) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0283-move-zeroes) |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0217-contains-duplicate) |
