@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0088-merge-sorted-array) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0079-word-search) |
 ## Matrix
 |  |
