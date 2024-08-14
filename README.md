@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0079-word-search) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0283-move-zeroes) |
@@ -192,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0011-container-with-most-water) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
