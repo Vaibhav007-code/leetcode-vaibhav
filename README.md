@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0039-combination-sum) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0189-rotate-array) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0217-contains-duplicate) |
