@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0342-power-of-four) |
+| [0492-construct-the-rectangle](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0492-construct-the-rectangle) |
 | [0870-magic-squares-in-grid](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1642-water-bottles) |
 ## Simulation
