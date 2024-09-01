@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0326-power-of-three) |
@@ -217,4 +218,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1013-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
