@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0189-rotate-array) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1196-filling-bookcase-shelves) |
 ## Stack
