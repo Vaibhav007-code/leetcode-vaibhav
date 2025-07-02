@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2634-minimum-common-value](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2727-number-of-senior-citizens) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2634-minimum-common-value](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2634-minimum-common-value) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0169-majority-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
