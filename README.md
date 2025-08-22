@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0882-peak-index-in-a-mountain-array) |
