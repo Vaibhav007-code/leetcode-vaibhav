@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0079-word-search) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0121-best-time-to-buy-and-sell-stock) |
