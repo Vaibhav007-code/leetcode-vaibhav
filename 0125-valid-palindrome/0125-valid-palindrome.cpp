@@ -1,30 +1,25 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string d = "";
-        string c = s;
-        for (int i = 0; i < s.size(); i++) {
-            if ((c[i] >= 'a' && c[i] <= 'z') ||
-                (c[i] >= 'A' && c[i] <= 'Z') ||
-                (c[i] >= '0' && c[i] <= '9')) {
-
-                if (c[i] >= 'A' && c[i] <= 'Z') {
-                    d += c[i] + 32;  // Convert uppercase to lowercase
-                } else {
-                    d += c[i];
-                }
+       string  d = "";
+        for(int i = 0 ; i < s.size(); i++){
+            if(isalnum(s[i])){
+                 d += tolower(s[i]);
             }
-        }  // <-- this correctly closes the for loop
-
-        string rev;
-        for (int i = d.size() - 1; i >= 0; i--) {
-            rev += d[i];
+        }
+        int i = 0  ,  j = d.size()-1;
+        while(i<j){
+            if (d[i] !=d[j]){
+                return false;
+            
+            }
+            else{
+                i++;
+                j--;
+            }
         }
 
-        if (rev == d) {
-            return true;
-        } else {
-            return false;
-        }
+        return true;
+        
     }
 };
