@@ -10,9 +10,9 @@ public:
         sort(t.begin(), t.end());
 
         for (int i = 0 ; i < s.size();i++){
-            for(int j = 0 ; j < t.size();j++){
+         
                 if(s[i] != t[i]) return false;
-            }
+            
            
         }
         return true;
