@@ -1,32 +1,21 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int freq  =  0 , ans = 0 ;
-        
-        for (int i = 0 ; i < nums.size(); i++){
-            if (freq == 0){
-                ans = nums[i];
-            } 
-            if (ans  == nums[i]){
-                freq++;
+        int n = nums.size();
+
+        for (int i = 0; i < n; i++) {
+            int count = 0;
+            for (int j = 0; j < n; j++) {
+                if (nums[i] == nums[j]) {
+                    count++;
+                }
             }
-            else{
-                freq--;
+
+            if (count > n / 2) {
+                return nums[i];
             }
-        }
-        int count  = 0 ;
-        for ( int val:nums){
-              if (val == ans ){
-                count ++;
-              }
         }
 
-        if(count > nums.size()/2){
-            return ans;
-        }
-        else{
-            return -1;
-        }
-        
+        return -1; // technically unreachable because majority is guaranteed
     }
 };
