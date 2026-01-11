@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0326-power-of-three) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/Vaibhav007-code/leetcode-vaibhav/tree/master/0206-reverse-linked-list) |
 ## Union Find
 |  |
 | ------- |
